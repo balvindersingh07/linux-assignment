@@ -1,7 +1,17 @@
 # Linux Assignment
 
-This repository contains:
-- Linux Commands Assignment Document
-- Screenshots of command execution
+## Commands Covered
+- File & Directory Management
+- Viewing File Contents
+- Searching with grep
+- Zipping & Unzipping
+- File Download (wget)
+- File Permissions
+- Environment Variables
 
-Student Name: Balvinder Singh Soni
+## Files Included
+- Assignment Document (.docx)
+- Screenshots of all commands
+
+## Student Details
+Name: Balvinder Singh Soni
